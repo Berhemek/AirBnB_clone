@@ -2,6 +2,7 @@
 """
 Defines city
 """
+
 from models.base_model import BaseModel
 
 

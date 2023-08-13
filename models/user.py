@@ -2,6 +2,7 @@
 """
 User creation class
 """
+
 from models.base_model import BaseModel
 
 

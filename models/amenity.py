@@ -2,6 +2,7 @@
 """
 Defines amenities
 """
+
 from models.base_model import BaseModel
 
 

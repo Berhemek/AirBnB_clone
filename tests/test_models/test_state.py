@@ -2,6 +2,7 @@
 """
 Unittest for amenity.py
 """
+
 import unittest
 from models.state import State
 import datetime

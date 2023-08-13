@@ -2,6 +2,7 @@
 """
 Unittest for user.py
 """
+
 import unittest
 from models.city import City
 import datetime
